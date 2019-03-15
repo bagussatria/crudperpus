@@ -11,7 +11,7 @@ simple crud perpus in ci
 
 ## penggunaan
 - hidupkan xampp
-- unduh repository in
+- unduh repository ini
 - extract di folder xampp/htdocs
 - import database file /basisdata/perpusui.sql
 - ubah config.php, kalau kamu install di localhost lewatkan step ini
